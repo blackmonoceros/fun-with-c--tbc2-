@@ -8,7 +8,7 @@ collection of people..
 
 Create a menu that:
 
-1. Allows you to display all people and separately for each group (e.g. faculty, students, etc.)
+1. Allows you to display all people and separately for each group (e.g. faculty, students, etc...)
 
 2. Add a person
 
